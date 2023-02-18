@@ -3,17 +3,17 @@
         {
             "id": 0,
             "name": "1号",
-            "e-mail": "AAA@gmail.com"
+            "mail": "AAA@gmail.com"
         },
         {
             "id": 1,
             "name": "2号",
-            "e-mail": "BBB@gmail.com"
+            "mail": "BBB@gmail.com"
         },
         {
             "id": 2,
             "name": "3号",
-            "e-mail": "CCC@gmail.com"
+            "mail": "CCC@gmail.com"
         }
     ]
 }
